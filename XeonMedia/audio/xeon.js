@@ -1,3 +1,3 @@
 {
-	"name": "Cheems Bot Multi Device "
+	"name": "ExDe Response Multi Device V.0.0.1"
 }
