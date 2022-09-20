@@ -35,7 +35,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['6281995401793'] //ur owner number
-global.ownername = "exde responder v.0.0.2" //ur owner name
+global.ownername = "FahriXD" //ur owner name
 global.ytname = "coming soon" //ur yt chanel name
 global.socialm = "coming soon" //ur github or insta name
 global.location = "japanse, tokyo, konoha" //ur location
@@ -43,14 +43,14 @@ global.location = "japanse, tokyo, konoha" //ur location
 //bot bomdy 
 global.owner = ['6281995401793']
 global.ownertag = '6281995401793' //ur tag number
-global.botname = 'exde response v.0.0.2' //ur bot name
+global.botname = 'exde-md-v0.2' //ur bot name
 global.linkz = "coming soon" //your theme url which will be displayed on whatsapp
 global.websitex = "Coming soon" //ur website to be displayed
 global.botscript = 'coming soon' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "🗿" //ur theme emoji
-global.packname = "exde response\n\n\n🗿🗿🗿 " //ur sticker watermark packname
-global.author = "exde v.0.0.2" //ur sticker watermark author
+global.packname = "exde 🗿 " //ur sticker watermark packname
+global.author = "FahriXD" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
